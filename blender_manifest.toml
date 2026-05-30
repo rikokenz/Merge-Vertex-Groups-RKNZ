@@ -6,7 +6,7 @@ version = "1.2.0"
 tagline = "Combine multiple vertex groups into one using Max, Add, or Average blending"
 maintainer = "Rikokenz <https://github.com/rikokenz>"
 type = "add-on"
-website = "https://github.com/rikokenz/QuickPathRKNZ"
+website = "https://github.com/rikokenz/Merge-Vertex-Groups-RKNZ"
 
 blender_version_min = "4.2.0"
 
